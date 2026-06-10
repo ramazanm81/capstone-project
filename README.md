@@ -67,5 +67,5 @@ This task focuses on building a predictive and optimization model for an interga
 ---
 
 ## 👤 Author
+Ramazan Mahammdov
 
-Data Science student working on real-world ML problems and portfolio development.
